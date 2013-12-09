@@ -4,7 +4,7 @@
 # 
 #  豆瓣FM音乐批量下载 Python 脚本
 #
-#  __author__ = '李伟'-IOS11班
+#  __author__ = '李伟'
 ############################
 import os
 import urllib2
